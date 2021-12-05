@@ -1,0 +1,32 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\Discord Voice Killer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\Discord Voice Killer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\BrotliSharpLib.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\MetroSuite 2.0.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\websocket-sharp-customheaders.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\BrotliSharpLib.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord_Voice_Killer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\SelectTokenLimit.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\Discord Voice Killer\Discord Voice Killer\obj\Debug\LoginForm.resources
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord_Voice_Killer.Properties.Resources.resources
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\SelectTokenLimit.resources
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.exe
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\Discord Voice Killer.exe.config
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\Discord Voice Killer.exe
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\BrotliSharpLib.xml
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\Sources\Discord Voice Killer\Discord Voice Killer\obj\Debug\Discord Voice Killer.csproj.CopyComplete
